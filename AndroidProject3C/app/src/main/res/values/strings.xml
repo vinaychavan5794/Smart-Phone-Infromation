@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidProject3C</string>
+    <string name="dangerousPermission">run securely</string>
+    <string-array name="brand">
+        <item>Iphone 11 Pro</item>
+        <item>Iphone 11 Pro Max</item>
+        <item>Samsung Galaxy S10</item>
+        <item>Samsung Note10</item>
+        <item>One Plus 7 Pro</item>
+        <item>Motorolla Moto Z4</item>
+    </string-array>
+</resources>

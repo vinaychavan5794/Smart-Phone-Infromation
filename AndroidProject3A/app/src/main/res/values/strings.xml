@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidProject3A</string>
+    <string name="dangerousPermission"> run securely</string>
+</resources>
